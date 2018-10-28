@@ -1,0 +1,9 @@
+javac BinaryTree.java
+javac DynamicArrayStack.java
+javac LinkedQueue.java
+javac LinkedStack.java
+javac InfixToPostfix.java
+javac Queue.java
+javac Stack.java
+
+java InfixToPostfix
