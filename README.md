@@ -1,12 +1,12 @@
 # infix-to-postfix
 Convert infix expressions to postfix expressions using elementary data structures.
-## Input (`input`)
+## Input (`input`):
 ```
 1+ 2
 6+2/3*(5+2)
 x+4
 ```
-## Output
+## Output:
 ```
 Infix:   1+2
 Postfix: 1 2 + 
