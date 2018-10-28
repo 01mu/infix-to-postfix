@@ -23,3 +23,7 @@ Enter a value for 'x':
 Result:  103.0
 
 ```
+## Build
+```
+./build
+```
