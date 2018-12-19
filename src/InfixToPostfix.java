@@ -17,7 +17,7 @@ public class InfixToPostfix
 
         LinkedQueue<String> inputQueue = new LinkedQueue<String>();
 
-        FileInputStream fstream = new FileInputStream("input");
+        FileInputStream fstream = new FileInputStream("../data/input");
 
         Scanner input = new Scanner(fstream);
         Scanner operandInput = new Scanner(System.in);
